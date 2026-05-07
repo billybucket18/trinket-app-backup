@@ -23,8 +23,8 @@ Trinket lets students and educators write and run code directly in the browser, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/trinketapp/trinket-oss.git
-   cd trinket-oss
+   git clone https://github.com/trinket-app/trinket-app.git
+   cd trinket-app
    ```
 
 2. Copy the example config and add your settings:
