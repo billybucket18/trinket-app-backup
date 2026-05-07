@@ -1,3 +1,6 @@
+# THIS REPOSITORY HAS BEEN ARCHIVED.
+## It is only used as a backup
+
 # Trinket
 
 An open source, browser-based coding environment designed for education.
